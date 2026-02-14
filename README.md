@@ -1,2 +1,2 @@
-# PowerBI_Vis
-PowerBI portfoolio
+![Ilmajaamade vaade](Ilmajaamad.png)
+![Maakondade vaade](Maakonnad.png)
